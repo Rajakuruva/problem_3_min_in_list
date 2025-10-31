@@ -65,7 +65,7 @@ print("Case5: Min value :", find_min_value(data_5))
 ```
 
 ---
-##  Approach 1 — Using Built-in Function min()
+##  Approach 2 — Using Built-in Function min()
 
 1. Check if the list is empty — if yes, return "Please provide a valid array".
 2. Use Python’s built-in min() function to get the smallest element.
