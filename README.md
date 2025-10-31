@@ -106,4 +106,4 @@ Case2: Min value : Please provide a valid array
 Case3: Min value : -23
 Case4: Min value : 1
 Case5: Min value : 123
-``
+```
